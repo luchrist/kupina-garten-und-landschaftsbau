@@ -1,0 +1,128 @@
+[
+  {
+    "originalFile": "scraped-01.jpg",
+    "file": "photos/baustellen/pflastersteine-verlegen-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Pflastersteine verlegen",
+    "subjectSlug": "pflastersteine-verlegen",
+    "description": "Ein Arbeiter verlegt Pflastersteine für einen neuen Weg oder eine Fläche."
+  },
+  {
+    "originalFile": "scraped-02.jpg",
+    "file": "photos/projekte/garten-mit-pool-und-kunstrasen-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Garten mit Pool und Kunstrasen",
+    "subjectSlug": "garten-mit-pool-und-kunstrasen",
+    "description": "Ein fertiggestellter Gartenbereich mit einem blauen Pool, umgeben von Kunstrasen und einem geschwungenen Pflasterweg."
+  },
+  {
+    "originalFile": "scraped-03.jpg",
+    "file": "photos/baustellen/moderne-gartenanlage-mit-betonstufen-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Moderne Gartenanlage mit Betonstufen",
+    "subjectSlug": "moderne-gartenanlage-mit-betonstufen",
+    "description": "Eine moderne Gartenanlage mit Betonstufen, gepflasterter Terrasse, Kunstrasenflächen und Hochbeeten, kurz vor der Fertigstellung."
+  },
+  {
+    "originalFile": "scraped-04.jpg",
+    "file": "photos/projekte/garten-mit-rollrasen-und-randsteinen-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Garten mit Rollrasen und Randsteinen",
+    "subjectSlug": "garten-mit-rollrasen-und-randsteinen",
+    "description": "Ein frisch angelegter Gartenbereich mit Rollrasen, umrandet von grauen Pflastersteinen und einem Kiesweg."
+  },
+  {
+    "originalFile": "api-01.jpg",
+    "file": "photos/details/pflastersteine-verlegen-01.jpg",
+    "category": "detail",
+    "quality": "high",
+    "subject": "Pflastersteine verlegen",
+    "subjectSlug": "pflastersteine-verlegen",
+    "description": "Ein Arbeiter verlegt Pflastersteine mit einem Gummihammer auf einer vorbereiteten Fläche."
+  },
+  {
+    "originalFile": "api-02.jpg",
+    "file": "photos/baustellen/moderne-gartenanlage-im-bau-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Moderne Gartenanlage im Bau",
+    "subjectSlug": "moderne-gartenanlage-im-bau",
+    "description": "Eine moderne Gartenanlage mit Terrassenplatten, Stufen, Kunstrasen und Hochbeeten befindet sich im Bau."
+  },
+  {
+    "originalFile": "api-03.jpg",
+    "file": "photos/projekte/nasse-wpc-terrasse-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Nasse WPC-Terrasse",
+    "subjectSlug": "nasse-wpc-terrasse",
+    "description": "Eine neu verlegte, regennasse WPC-Terrasse mit dunkler Randbegrenzung in einem Garten."
+  },
+  {
+    "originalFile": "api-04.jpg",
+    "file": "photos/projekte/moderner-garten-mit-kunstrasen-und-terrasse-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Moderner Garten mit Kunstrasen und Terrasse",
+    "subjectSlug": "moderner-garten-mit-kunstrasen-und-terrasse",
+    "description": "Ein modern gestalteter Garten mit Kunstrasen, Trittplatten und einer Terrasse."
+  },
+  {
+    "originalFile": "api-05.jpg",
+    "file": "photos/projekte/moderner-sichtschutzzaun-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Moderner Sichtschutzzaun",
+    "subjectSlug": "moderner-sichtschutzzaun",
+    "description": "Ein neu installierter, moderner Sichtschutzzaun mit dekorativem Muster trennt den Terrassenbereich vom Garten."
+  },
+  {
+    "originalFile": "api-06.jpg",
+    "file": "photos/projekte/garten-mit-pool-und-kunstrasen-02.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Garten mit Pool und Kunstrasen",
+    "subjectSlug": "garten-mit-pool-und-kunstrasen",
+    "description": "Ein fertiggestellter Garten mit einem blauen Pool, Kunstrasen, einem gepflasterten Weg und einer Steinmauer."
+  },
+  {
+    "originalFile": "api-07.jpg",
+    "file": "photos/projekte/gepflasterte-einfahrt-mit-zaun-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gepflasterte Einfahrt mit Zaun",
+    "subjectSlug": "gepflasterte-einfahrt-mit-zaun",
+    "description": "Eine gepflasterte Einfahrt mit einem neuen Metallzaun und geöffneten Toren führt zu Garagen und Wohnhäusern."
+  },
+  {
+    "originalFile": "api-08.jpg",
+    "file": "photos/baustellen/gartenbaustelle-mit-treppe-und-pool-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Gartenbaustelle mit Treppe und Pool",
+    "subjectSlug": "gartenbaustelle-mit-treppe-und-pool",
+    "description": "Eine Gartenbaustelle mit neu errichteten Betontreppen und einem im Bau befindlichen Poolbereich."
+  },
+  {
+    "originalFile": "api-09.jpg",
+    "file": "photos/projekte/gepflasterter-auenbereich-mit-steinmauer-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gepflasterter Außenbereich mit Steinmauer",
+    "subjectSlug": "gepflasterter-auenbereich-mit-steinmauer",
+    "description": "Ein gepflasterter Außenbereich mit einer dekorativen Steinmauer und einem integrierten Spülbecken."
+  },
+  {
+    "originalFile": "api-10.jpg",
+    "file": "photos/baustellen/mauerbau-fur-hochbeet-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Mauerbau für Hochbeet",
+    "subjectSlug": "mauerbau-fur-hochbeet",
+    "description": "Eine halbfertige Gartenmauer aus Steinquadern für ein Hochbeet mit Erde und Bepflanzung im Hintergrund."
+  }
+]
