@@ -107,8 +107,8 @@ export const galabau: GalabauConfig = {
     "teamSize": "",
     "machines": ""
   },
-  "claim": "Garten- und Landschaftsbau in Schifferstadt und der Vorderpfalz.",
-  "heroSubline": "Pflasterarbeiten, Terrassen, Gartenneuanlagen und Sichtschutz aus einer Hand. Einsatzgebiet: Schifferstadt, Speyer, Ludwigshafen, Mannheim und rund 40 km Umkreis.",
+  "claim": "KUPINA Garten und Landschaftsbau",
+  "heroSubline": "Einsatzgebiet: Schifferstadt und rund 40 km Umkreis - Speyer, Ludwigshafen, Mannheim",
   "services": [
     {
       "key": "gartenneugestaltung",

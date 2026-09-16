@@ -1,7 +1,6 @@
 import { Navbar } from "@/components/Navbar";
 import { Hero } from "@/components/Hero";
 import { Leistungen } from "@/components/Leistungen";
-import { Referenzen } from "@/components/Referenzen";
 import { Arbeitsweise } from "@/components/Arbeitsweise";
 import { Reviews } from "@/components/Reviews";
 import { Einsatzgebiet } from "@/components/Einsatzgebiet";
@@ -16,7 +15,6 @@ export default function Page() {
       <Navbar />
       <Hero />
       <Leistungen />
-      <Referenzen />
       <Arbeitsweise />
       <Einsatzgebiet />
       <Reviews />
