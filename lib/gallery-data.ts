@@ -15,8 +15,8 @@ export const galleryItems: GalleryItem[] = [
     alt: "Landschaftsgärtner beim Verlegen von Pflastersteinen auf der Baustelle"
   },
   {
-    src: "/assets/acquisition/details/pflastersteine-verlegen-01.jpg",
-    alt: "Nahaufnahme: Pflastersteine werden mit dem Gummihammer eingerichtet"
+    src: "/assets/acquisition/baustellen/mauerbau-fur-hochbeet-01.jpg",
+    alt: "Mauerbau für ein Hochbeet auf der Baustelle"
   },
   {
     src: "/assets/acquisition/projekte/garten-mit-rollrasen-und-randsteinen-01.jpg",

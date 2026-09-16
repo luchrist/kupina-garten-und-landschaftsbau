@@ -21,16 +21,9 @@ export function Galerie() {
               <span>Einblicke</span>
             </div>
           </div>
-          <div className="col-span-12 md:col-span-9">
-            <h2 className="break-words font-display text-[32px] leading-[1.05] tracking-tight text-ink sm:text-[40px] md:text-[64px] lg:text-[78px]">
-              Von der Baustelle
-              <br />
-              <span className="italic text-laub-500">bis zur Übergabe.</span>
-            </h2>
-          </div>
         </div>
 
-        <div className="mt-20 grid grid-cols-12 gap-4 md:gap-6">
+        <div className="mt-12 grid grid-cols-12 gap-4 md:gap-6">
           {/* Large image: 7 cols, stretches to match right stack */}
           <div className="col-span-12 md:col-span-7">
             <div className="group relative aspect-[4/3] overflow-hidden rounded-sm bg-ink/5 md:aspect-auto md:h-full">
